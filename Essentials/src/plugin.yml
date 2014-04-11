@@ -213,7 +213,7 @@ commands:
   kittycannon:
     description: Throw an exploding kitten at your opponent.
     usage: /<command>
-    aliases: [ekittycannon]
+    aliases: [ekittycannon,pussycannon]
   lightning:
     description: The power of Thor. Strike at cursor or player.
     usage: /<command> [player] [power]
